@@ -1,0 +1,12 @@
+﻿  MyView.cpp
+  No target GL version declared, defaulting to GL 3.3
+  For example, use #define TGL_TARGET_GL_4_1 before including tgl.h to specify OpenGL 4.1
+source\MyView.cpp(161): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+source\MyView.cpp(223): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  MyController.cpp
+  No target GL version declared, defaulting to GL 3.3
+  For example, use #define TGL_TARGET_GL_4_1 before including tgl.h to specify OpenGL 4.1
+source\MyController.cpp(105): warning C4060: switch statement contains no 'case' or 'default' labels
+  main.cpp
+  Generating Code...
+  DrawMySponza.vcxproj -> C:\Users\Aleks\Desktop\3D Sponza scene\build\bin\x64\Debug\DrawMySponza.exe
